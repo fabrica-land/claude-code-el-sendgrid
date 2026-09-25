@@ -62,3 +62,7 @@ Or with explicit port:
 ## License
 
 MIT
+
+## License
+
+MIT © Fabrica, Inc. — see [LICENSE](LICENSE). Created and maintained by Tim Garthwaite.
